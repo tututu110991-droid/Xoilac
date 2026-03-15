@@ -1,0 +1,30 @@
+{
+  "updated_at": "2026-03-15 14:00:00",
+  "provider": "Xoilac TV",
+  "live_streams": [
+    {
+      "match": "Nam Định vs Thanh Hóa",
+      "league": "V.League 1",
+      "time": "18:00",
+      "link": "https://xoilaczzpz.tv/truc-tiep/nam-dinh-vs-thanh-hoa-18-00-15-03/",
+      "quality": "Full HD",
+      "status": "Sắp đá"
+    },
+    {
+      "match": "Đà Nẵng vs HAGL",
+      "league": "V.League 1",
+      "time": "18:00",
+      "link": "https://xoilaczzpz.tv/truc-tiep/da-nang-vs-hoang-anh-gia-lai-18-00-15-03/",
+      "quality": "HD",
+      "status": "Sắp đá"
+    },
+    {
+      "match": "Aston Villa vs Liverpool",
+      "league": "Premier League",
+      "time": "21:00",
+      "link": "https://xoilaczzpz.tv/truc-tiep/aston-villa-vs-liverpool-21-00-15-03/",
+      "quality": "Full HD",
+      "status": "Chưa bắt đầu"
+    }
+  ]
+}
