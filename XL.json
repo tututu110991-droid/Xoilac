@@ -1,0 +1,52 @@
+{
+  "provider": "Xoilac TV",
+  "author": "tututu110991",
+  "version": "1.0",
+  "updated_at": "2026-03-15 21:00:00",
+  "homepage": "https://xoilaczzpz.tv",
+  "live_streams": [
+    {
+      "match": "Manchester United vs Aston Villa",
+      "league": "Premier League",
+      "time": "21:00",
+      "status": "Live",
+      "quality": "Full HD",
+      "links": [https://fb.sportliveapiz.com/football/match/detail_live
+        {
+          "server": "Server 1",
+          "url": "STREAM_LINK_1"
+        },
+        {
+          "server": "Server 2",
+          "url": "STREAM_LINK_2"
+        }
+      ]
+    },
+    {
+      "match": "Nam Định vs Thanh Hóa",
+      "league": "V.League 1",
+      "time": "18:00",
+      "status": "Upcoming",
+      "quality": "HD",
+      "links": [
+        {
+          "server": "Server 1",
+          "url": "STREAM_LINK_3"
+        }
+      ]
+    },
+    {
+      "match": "Đà Nẵng vs HAGL",
+      "league": "V.League 1",
+      "time": "18:00",
+      "status": "Upcoming",
+      "quality": "HD",
+      "links": [
+        {
+          "server": "Server 1",
+          "url": "STREAM_LINK_4"
+        }
+      ]
+    }
+  ]
+}
